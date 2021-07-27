@@ -1,0 +1,3 @@
+[submodule "Csharp.CardanoCLI"]
+	path = Csharp.CardanoCLI
+	url = https://github.com/zachyking/Csharp.CardanoCLI.git

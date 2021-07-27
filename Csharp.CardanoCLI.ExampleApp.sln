@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Csharp.CardanoCLI.ExampleApp", "Csharp.CardanoCLI.ExampleApp\Csharp.CardanoCLI.ExampleApp.csproj", "{3C1C7372-9E6E-4E32-9C13-9C245D62849F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Csharp.CardanoCLI", "Csharp.CardanoCLI\Csharp.CardanoCLI.csproj", "{963FA89D-1820-4386-914C-4EEA2076EB77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C1C7372-9E6E-4E32-9C13-9C245D62849F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C1C7372-9E6E-4E32-9C13-9C245D62849F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C1C7372-9E6E-4E32-9C13-9C245D62849F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C1C7372-9E6E-4E32-9C13-9C245D62849F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{963FA89D-1820-4386-914C-4EEA2076EB77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{963FA89D-1820-4386-914C-4EEA2076EB77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{963FA89D-1820-4386-914C-4EEA2076EB77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{963FA89D-1820-4386-914C-4EEA2076EB77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA92F27C-D676-40E3-8F88-E39E442DC012}
+	EndGlobalSection
+EndGlobal
